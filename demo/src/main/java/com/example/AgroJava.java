@@ -7,7 +7,7 @@ public class AgroJava {
         // Declaração de variáveis
             double[] chuva = new double[7];
             double[][] campo = new double[4][4];
-            int opcao;
+            int opcao; 
 
         // Começo do programa
             do{
