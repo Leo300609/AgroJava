@@ -9,7 +9,7 @@ public class AgroJava {
             double[][] campo = new double[4][4];
             int opcao; 
 
-        // Começo do programa
+        // Começo do programa 
             do{
                 System.out.println("======================");
                 System.out.println("Bem-vindo ao AgroJava!");
