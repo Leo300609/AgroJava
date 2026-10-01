@@ -67,7 +67,7 @@ javac -version
 Clone este repositório utilizando:
 
 ```bash
-git clone https://github.com/seu-usuario/AgroJava.git
+git clone https://github.com/Leo300609/AgroJava.git
 ```
 
 Depois, entre na pasta do projeto:
@@ -220,7 +220,7 @@ O projeto está sendo desenvolvido como uma forma de praticar e aprimorar conhec
 
 ## 👨‍💻 Autor
 
-**Seu Nome**
+**Leonardo Almeida Canto**
 
 Projeto pessoal desenvolvido para estudos e prática de programação em **Java**.
 
